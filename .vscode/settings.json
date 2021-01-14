@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6aca9c05-403e-4398-ad29-70f396bd3a03/resourceGroups/Kellner/providers/Microsoft.Web/sites/Kellner",
+    "appService.deploySubpath": "."
+}
